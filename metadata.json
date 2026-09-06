@@ -1,0 +1,6 @@
+{
+  "name": "ThinkSpace",
+  "description": "A private AI workspace for capturing, forming, connecting, and evolving your ideas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
